@@ -1,1 +1,1 @@
-mysql
+alpine:3.18
